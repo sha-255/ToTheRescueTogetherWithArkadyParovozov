@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9e41663976b7a914d985af7d4b999c00, type: 3}
+  m_Name: 0 9
+  m_EditorClassIdentifier: 
+  QuestionAudio: {fileID: 8300000, guid: 0fe9e9cc19a26354aacd9ebaa72f6b86, type: 3}
+  QuestionText: "\u0422\u044B \u0434\u043E\u043C\u0430 \u0441 \u043C\u043B\u0430\u0434\u0448\u0438\u043C
+    \u0431\u0440\u0430\u0442\u043E\u043C, \u043E\u043D \u0432\u0437\u044F\u043B \u0441\u043F\u0438\u0447\u043A\u0438
+    \u0438 \u043D\u0430\u0447\u0438\u043D\u0430\u0435\u0442 \u0438\u0433\u0440\u0430\u0442\u044C
+    \u0432 \u043D\u0438\u0445, \u0437\u0430\u0436\u0438\u0433\u0430\u0442\u044C.
+    \u0427\u0442\u043E \u0442\u044B \u0431\u0443\u0434\u0435\u0448\u044C \u0434\u0435\u043B\u0430\u0442\u044C? "
+  Ansvers:
+  - Text: "\u043F\u043E\u043C\u043E\u0433\u0443 \u0435\u043C\u0443"
+    Audio: {fileID: 8300000, guid: 26b1ef6a9a26a6842a2ab922349d0088, type: 3}
+    Type: 1
+  - Text: "\u0437\u0430\u0431\u0435\u0440\u0443 \u0441\u043F\u0438\u0447\u043A\u0438
+      \u0438 \u043E\u0431\u044A\u044F\u0441\u043D\u044E \u0435\u043C\u0443, \u0447\u0442\u043E
+      \u0441 \u043D\u0438\u043C\u0438 \u0438\u0433\u0440\u0430\u0442\u044C \u043D\u0435\u043B\u044C\u0437\u044F"
+    Audio: {fileID: 8300000, guid: 5ec68d2ac0b07b64ea46699afd6e3e96, type: 3}
+    Type: 1
+  - Text: "\u0437\u0430\u043A\u0440\u043E\u044E \u0433\u043B\u0430\u0437\u0430, \u043A\u0430\u043A
+      \u0431\u0443\u0434\u0442\u043E \u043D\u0438\u0447\u0435\u0433\u043E \u043D\u0435
+      \u0432\u0438\u0436\u0443"
+    Audio: {fileID: 8300000, guid: deba895719e8d584dbdc271199fe8a27, type: 3}
+    Type: 1
+  - Text: "\u0441\u043F\u0440\u044F\u0447\u0443\u0441\u044C \u043F\u043E\u0434 \u043A\u0440\u043E\u0432\u0430\u0442\u044C"
+    Audio: {fileID: 8300000, guid: c734158b895477540a719f4dfdb4f789, type: 3}
+    Type: 0
